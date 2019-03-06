@@ -8,42 +8,13 @@ namespace Codiliy1
 {
     class Program
     {
-        private static string result = "Anything";
-
-
-
-        static async Task<string> GetSomething()
-        {
-            await Task.Delay(5);
-            result = "Hello world!";
-            return "Something";
-                
-        }
 
         static void Main(string[] args)
         {
-            
-            try
-            {
-                Console.WriteLine("Hello");
-            }
-            catch (NullReferenceException)
-            {
-                Console.WriteLine("A");
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("B");
-            }
-            finally
-            {
-                Console.WriteLine("C");
-            }
 
-
-            //int[] A = { 2 };
-            ////int[] A = { 1,2,3 };
-            //solution(A);
+            int[] A = { 2 };
+            int[] A = { 1,2,3 };
+            solution(A);
         }
 
 
