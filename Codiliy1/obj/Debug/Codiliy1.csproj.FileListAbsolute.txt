@@ -1,0 +1,7 @@
+E:\yedek\Deneme\Codiliy1\Codiliy1\obj\Debug\Codiliy1.csprojAssemblyReference.cache
+E:\yedek\Deneme\Codiliy1\Codiliy1\obj\Debug\Codiliy1.csproj.CoreCompileInputs.cache
+E:\yedek\Deneme\Codiliy1\Codiliy1\bin\Debug\Codiliy1.exe.config
+E:\yedek\Deneme\Codiliy1\Codiliy1\bin\Debug\Codiliy1.exe
+E:\yedek\Deneme\Codiliy1\Codiliy1\bin\Debug\Codiliy1.pdb
+E:\yedek\Deneme\Codiliy1\Codiliy1\obj\Debug\Codiliy1.exe
+E:\yedek\Deneme\Codiliy1\Codiliy1\obj\Debug\Codiliy1.pdb
